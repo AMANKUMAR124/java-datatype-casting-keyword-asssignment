@@ -1,0 +1,46 @@
+1.WHAT ARE PRIMITIVE DATA TYPES IN CASTING?
+ANS::a primitive datatype is predefined by the language and is named by a reserved keyword.
+    =>there are four  types of primitive datatype
+     a.INTEGER:: byte ,short,int,long
+     b.FLOATING POINT NUMBER:: float,double
+     c. CHAR TYPE
+     d.BOOLEAN TYPE:: TRUE,FALSE
+2.WHAT ARE THE IDENTIFIERS IN JAVA?
+ANS::a name in java is called identifiers.
+    =>the name can be a classname,methodname,interfacename,variablename,enumname,and lebelname.
+3.WHAT IS FINAL CLASS IN JAVA?
+ANS:: the final class is a class that is declared with the help of final keyword.
+
+4.WHAT ARE THE TWO WAYS TO MAKE A CLASS FINAL?
+ANS::
+a.use the the keyword final before the class keyword in in class declaration..
+b.the final class is commonly used with a class prevent inheritance.
+
+5.CAN WE CREATE AN INSTANCE OF FINAL CLASS IN ANOTHER CLASS?
+ANS:: no
+
+6. WHAT IS VOLATILE KEYWORD USED FOR?
+ANS:: VOLATILE KEYWORDS PREVENTS THE COMPILER FROM PERFORMING optimization on code involving volatile objects.
+
+7.WHAT IS THE USE OF TRANSIENT KEYWORD?
+ANS:: transient keyword used by the programmer to avoid serialization .
+
+8.WHAT ARE THE TYES OF CASTING?
+ANS::
+THERA ARE TWO TYES OF CASTING.
+A.implicit type casting(compiler)
+b.Explicit type casting(programmer)
+
+9.WHAT IS BOXING AND UNBOXING?
+ANS::
+      BOXING::BOXING IS RTHE OF CONVERTING a ptimitive datatype into an object.
+      UNBOXING::IT IS THE PROCESS OF CONVERTING A VALUE FROM AN OBJECT.
+
+10.WHAT IS THE DIFFERENCE BETWEEN KEYWORDS,IDENTIFIERSAND LITERALS IN JAVA?
+ANS::
+     a.KEYWORDS::it is predefined by the compiler.
+               =>it can't be used as a variabblename & objectname.
+     b.	IDENTIFIERS:: SEE Q-2 ANS.
+     C.LITERALS ::it is a syntethic representation of boolean,character ,numeric or String data.
+     
+       
